@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Donald Tchoumi, Cameroonian of 19 years old
-- 👀 I’m interested by JS, CSharp and .NET for mobile development and web development.
-- 🌱 I’m currently learning the React JS, Node JS, WPF, Xamarin.Forms and ASP.NET MVC.
-- 💞️ I’m looking to collaborate on project with people willing to work with me or help me improve my skills, thanks.
+- 👋 Hi, I’m Donald Tchoumi, Cameroonian of 21 years old
+🌱 I recently completed a Master 1 in Computer Security, and I’m now in my third year in Cybersecurity, actively seeking a challenging master’s project focused on DevSecOps and machine learning applications.
+🚀 I’m currently developing skills in React JS, Node JS, WPF, Xamarin.Forms, and ASP.NET MVC, aiming to combine innovative solutions with secure, efficient application design.
 - 📫 my contact email : tchouminzikeubd@gmail.com, whatsapp number : https://wa.me/237695547004
 
 <!---
