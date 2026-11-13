@@ -42,5 +42,5 @@ I build and secure the authentication layer of **[CISO Assistant](https://github
 
 <p>
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=tchoumi313&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tchoumi313&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tchoumi313&layout=compact&langs_count=8&theme=transparent&hide_border=true&hide=llvm" alt="Top languages" />
 </p>
